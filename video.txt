@@ -1,0 +1,7 @@
+python upload_video.py --file "Result[Slowed+Reverb].mp4" --noauth_local_webserver --title="title" --description="description" --keywords="surfing,Santa Cruz" --category="10" --privacyStatus="private"
+
+
+DISCLAIMER :-  
+* This Following Audio/Video is Strictly meant for Promotional Purpose.*
+* We Do not Wish to make any Commercial Use of this & Intended to Showcase the Creativity Of the Artist Involved.*
+*The original Copyright(s) is (are) Solely owned by the Companies/Original-Artist(s)/Record-label(s). All the contents are strictly done for a promotional purpose*
